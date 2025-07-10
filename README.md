@@ -41,8 +41,9 @@ A beautiful, full-stack web application for managing your personal media collect
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd my-media-tracker
+cd Media-Tracker
 ```
+Note: don't forget to unzip the file
 
 2. Install dependencies:
 ```bash
